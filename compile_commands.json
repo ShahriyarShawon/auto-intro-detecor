@@ -1,0 +1,17 @@
+[
+  {
+    "arguments": [
+      "/usr/lib64/ccache/c++",
+      "-I/home/shahriyar/Documents/programming/cpp/parallel-msssim/src",
+      "-isystem",
+      "/usr/include/opencv4",
+      "-c",
+      "-o",
+      "CMakeFiles/parallel-ssim.dir/src/main.cpp.o",
+      "/home/shahriyar/Documents/programming/cpp/parallel-msssim/src/main.cpp"
+    ],
+    "directory": "/home/shahriyar/Documents/programming/cpp/parallel-msssim/build",
+    "file": "/home/shahriyar/Documents/programming/cpp/parallel-msssim/src/main.cpp",
+    "output": "/home/shahriyar/Documents/programming/cpp/parallel-msssim/build/CMakeFiles/parallel-ssim.dir/src/main.cpp.o"
+  }
+]
