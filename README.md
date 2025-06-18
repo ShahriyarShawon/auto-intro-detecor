@@ -13,7 +13,7 @@ intro in an episode.
 
 What constitutes as "large" is still TBD. 
 
-[<img src="res/example_ssim_graph_jump.png">](Example SSIM Graph)
+<img alt="Example SSIM Graph" src="res/example_ssim_graph_jump.png">]
 
 So far, as a proof of concept I have made a c++ program that serially calculates 
 SSIM between two images. If the images are of different sizes, it uses the STBI 
